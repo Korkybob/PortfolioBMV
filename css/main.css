@@ -27,7 +27,11 @@
     Theme Reset Css
 ==========================================
 */
+body {
+    overflow-x: hidden; /* Cache le scroll horizontal sur tout le contenu du body */
+    }
 
+    
 :root {
     --main-color :#00f298;
     --scnd-color :#07f7f7;
