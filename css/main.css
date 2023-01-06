@@ -28,7 +28,7 @@
 ==========================================
 */
 body {
-    overflow-x: none; /* Cache le scroll horizontal sur tout le contenu du body */
+    overflow-x: visible; /* Cache le scroll horizontal sur tout le contenu du body */
     }
 
 
