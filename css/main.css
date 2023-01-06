@@ -27,6 +27,7 @@
     Theme Reset Css
 ==========================================
 */
+*{ overflow-x: visible;}
 
 :root {
     --main-color :#00f298;
