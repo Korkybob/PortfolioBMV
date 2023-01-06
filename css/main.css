@@ -137,6 +137,7 @@ body {
 }
 
 #header-area {
+    overflow-x: hidden;
     left: 0;
     padding: 35px 0;
     position: fixed;
