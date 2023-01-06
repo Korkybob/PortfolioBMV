@@ -27,10 +27,6 @@
     Theme Reset Css
 ==========================================
 */
-*{max-width :200%;
-
-}
-
 :root {
     --main-color :#00f298;
     --scnd-color :#07f7f7;
