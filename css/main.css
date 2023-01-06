@@ -27,6 +27,8 @@
     Theme Reset Css
 ==========================================
 */
+*{width :100%
+}
 
 :root {
     --main-color :#00f298;
@@ -103,7 +105,6 @@ body {
     letter-spacing: 0.4px;
     line-height: 26px;
     overflow-x: hidden;
-    width: 100%;
 }
 
 .section-padding {
