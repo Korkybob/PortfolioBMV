@@ -103,6 +103,7 @@ body {
     letter-spacing: 0.4px;
     line-height: 26px;
     overflow-x: hidden;
+    max-width: 100%;
 }
 
 .section-padding {
