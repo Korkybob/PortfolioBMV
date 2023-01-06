@@ -27,12 +27,7 @@
     Theme Reset Css
 ==========================================
 */
-body {
-    overflow-x: visible; /* Cache le scroll horizontal sur tout le contenu du body */
-    }
-    html {
-        overflow-x: visible; /* Supprime le scroll horizontal sur toute la page */
-      }
+
 
 :root {
     --main-color :#00f298;
@@ -108,7 +103,7 @@ body {
     font-size: 14px;
     letter-spacing: 0.4px;
     line-height: 26px;
-    
+    overflow-x: hidden;
 }
 
 .section-padding {
