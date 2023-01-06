@@ -27,7 +27,10 @@
     Theme Reset Css
 ==========================================
 */
-
+*{  margin:0;
+    padding:0;
+    width :100%;
+    overflow-x:hidden;}
 
 :root {
     --main-color :#00f298;
