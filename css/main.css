@@ -30,7 +30,9 @@
 body {
     overflow-x: visible; /* Cache le scroll horizontal sur tout le contenu du body */
     }
-
+    html {
+        overflow-x: visible; /* Supprime le scroll horizontal sur toute la page */
+      }
 
 :root {
     --main-color :#00f298;
