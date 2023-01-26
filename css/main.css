@@ -32,6 +32,8 @@
     --scnd-color :#07f7f7;
     --box-shadow : rgba(22, 213, 156, 0.7);
 }
+/* *{ outline : 1px solid red;} */
+
 
 ul {
     margin: 0;
