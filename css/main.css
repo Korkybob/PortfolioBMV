@@ -895,7 +895,7 @@ nav.main-menu ul li a:hover {
 }
 
 .portfolio-container {
-    background-image: url("../img/portfolio/hedaer-bg-2.jpg");
+    background-image: url("../img/portfolio/baptiste.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -906,7 +906,7 @@ nav.main-menu ul li a:hover {
 
 .portfolio-container:after {
     background: rgba(0, 255, 195, 0.548);
-    opacity: 50%;
+    opacity: 90%;
     position: absolute;
     content: "";
     width: 100%;
